@@ -83,5 +83,6 @@
         "xmemory": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp"
-    }
+    },
+    "window.zoomLevel": -0.7
 }
