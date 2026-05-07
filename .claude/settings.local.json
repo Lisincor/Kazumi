@@ -4,7 +4,9 @@
       "Edit(~/.claude/skills/my-girlfriend/**)",
       "Bash(xargs grep -l \"canvas_danmaku\\\\|CanvasDanmaku\")",
       "Bash(grep -E \"\\\\.dart$\")",
-      "Bash(xargs grep -l \"media_kit\\\\|MediaKit\")"
+      "Bash(xargs grep -l \"media_kit\\\\|MediaKit\")",
+      "WebSearch",
+      "Bash(git add *)"
     ]
   }
 }
