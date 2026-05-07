@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(~/.claude/skills/my-girlfriend/**)",
+      "Bash(xargs grep -l \"canvas_danmaku\\\\|CanvasDanmaku\")",
+      "Bash(grep -E \"\\\\.dart$\")",
+      "Bash(xargs grep -l \"media_kit\\\\|MediaKit\")"
+    ]
+  }
+}
